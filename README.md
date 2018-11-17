@@ -1,4 +1,4 @@
-# Statystyka Laboratorium 
+﻿# Statystyka Laboratorium **zmiana**
 Strona przedmiotu Statystyka Laboratorium na WMP.SNŚ UKSW w Warszawie
 
 # Tematy zajęć
